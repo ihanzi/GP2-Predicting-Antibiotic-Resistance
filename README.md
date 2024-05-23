@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the source code for the Graduation Project 2 by Haneen Abdullah, Ghayda Almomani, and Leen Hashem. The project aims to predict antibiotic resistance using various machine learning models.
+This repository contains the source code for the Graduation Project 2 by Haneen Abdullah, Ghayda Almomani, and Leen Hashem. The project aims to predict antibiotic resistance using  machine learning models.
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ Antibiotic resistance is a critical challenge in public health. This project lev
 
 ## Dataset
 
-The dataset includes information on bacterial strains, antibiotic susceptibility, and genomic features. It is provided in the repository as `Data.zip`.
+The dataset includes information such as bacterial strains, antibiotic susceptibility,Gender,Age etc... . It is provided in the repository as `Data.zip`.
 
 ## Installation
 
