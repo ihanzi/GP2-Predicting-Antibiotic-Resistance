@@ -19,7 +19,7 @@ Antibiotic resistance is a critical challenge in public health. This project lev
 
 ## Dataset
 
-The dataset includes information such as bacterial strains, antibiotic susceptibility,Gender,Age etc... . It is provided in the repository as `Data.zip`.
+The dataset includes information such as (bacterial strains, antibiotic susceptibility, gender, age, etc...). It is provided in the repository as `Data.zip`.
 
 ## Installation
 
