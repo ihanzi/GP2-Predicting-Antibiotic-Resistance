@@ -1,4 +1,3 @@
-```markdown
 # Predicting Antibiotic Resistance
 
 ## Overview
