@@ -68,4 +68,3 @@ For any inquiries or questions, please contact:
 - Leen Hashem
 
 We appreciate your interest in our project!
-```
